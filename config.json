@@ -12,16 +12,16 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "Hinata 🌷",
-	"prefix": "!",
+	"nickNameBot": "বাম বোলা নাটকির পোলা",
+	"prefix": "👙",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100043250142520","61559433278651","100088862354582"
+		"61569497792525","",""
 	],
-	"owner": ["100043250142520","61559433278651"],
+	"owner": ["61569497792525",""],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
